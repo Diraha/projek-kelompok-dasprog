@@ -1,2 +1,2 @@
-# projek-kelompok-dasprog
-Repository dari kelompok 17 dengan tema ....
+# projek-kelompok-algo
+Repository dari kelompok 17 dengan tema gallery photos
